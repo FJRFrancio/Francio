@@ -4,8 +4,8 @@ tags: 标签
 tagcloud: 标签云
 prev: 上一页
 next: 下一页
-prev-post: '上一篇：'
-next-post: '下一篇：'
+prev-post: '上一篇: '
+next-post: '下一篇: ' 
 search-load: 正在加载搜索结果，请稍等。
 comment: 文章评论
 contents: 文章目录
