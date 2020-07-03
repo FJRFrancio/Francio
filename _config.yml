@@ -28,7 +28,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : Francio Laarning
+title : Francio Learning
 tagline: Learn for fun
 assets: /assets
 url:
