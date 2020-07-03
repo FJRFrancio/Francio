@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Java Learning
-tags:
-
+tags: 
 - Java
-    categories: Java
-    description: Java学习笔记
+categories: Java
+description: Java 学习
 ---
 
 # Java Learning 
 
 ###  Francio PKU_CCME 
+
+<!-- more -->
 
 ## Day01  Hello World
 
