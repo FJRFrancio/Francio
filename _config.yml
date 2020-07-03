@@ -37,6 +37,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 author: Francio
 email: fjrfrancio@pku.edu.cn
 avatar: assets/images/avatar.jpg
+cover-photo: imgs/test.jpeg
+cover-photo-alt: test
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/blog" # the subpath of your site, e.g. /blog
@@ -59,5 +61,5 @@ dribbble_url:
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
