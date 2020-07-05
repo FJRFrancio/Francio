@@ -352,7 +352,6 @@ description: Java 学习
 ​				      使用 ii.length 查看数组长度
 
 ​	赋值： 类似于给变量赋值，ii[n] = xxx;
-}}
 ##### 多维数组
 
 ​	多维数组不必是规则矩阵。
@@ -361,7 +360,7 @@ description: Java 学习
 
 ​	动态初始化 2 ：`int[][] arr = new int[m][]  定义名为arr的二维数组，其中有m个一维数组，第二维不定义，默认值为空，可对第k个一维数组单独定义：arr[k] = new int[m]。注意，int[][] arr = new int[][m]非法。`
 
-​	静态初始化：`int[][] arr = new int[][]{{1,2,5},{9,6},{9,1,7,3}}`
+​	静态初始化：`int[][] arr = new int[][]{}`
 
 ​	注意特殊写法：int[] x,y[];定义得到的x为一维数组，y为二维数组。
 
