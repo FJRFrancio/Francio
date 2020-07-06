@@ -10,6 +10,7 @@ description: Java 学习
 # Java Learning 
 
 ###  Francio PKU_CCME 
+资料来源：哔哩哔哩-求知讲堂
 
 <!-- more -->
 
@@ -358,7 +359,8 @@ description: Java 学习
 
 ​	动态初始化 1：`int[][] arr = new int[m][n]`  定义名为arr的二维数组，其中有m个一维数组，每个一维数组中有n个元素，第k个一维数组名称为`arr[k]`，赋值使用 `arr[k][l] = xxxx`。
 
-​	动态初始化 2 ：`int[][] arr = new int[m][]  定义名为arr的二维数组，其中有m个一维数组，第二维不定义，默认值为空，可对第k个一维数组单独定义：arr[k] = new int[m]。注意，int[][] arr = new int[][m]非法。`
+​	动态初始化 2 ：`int[][] arr = new int[m][]  定义名为arr的二维数组，其中有m个一维数组，第二维不定义，默认值为空`
+		      `可对第k个一维数组单独定义：arr[k] = new int[m]。注意，int[][] arr = new int[][m]非法。`
 
 ​	静态初始化：`int[][] arr = new int[][]{}`
 
