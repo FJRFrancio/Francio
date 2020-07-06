@@ -10,9 +10,9 @@ description: Java 学习
 # Java Learning 
 
 ###  Francio PKU_CCME 
-
-资料来源：哔哩哔哩-求知讲堂
 <!-- more -->
+资料来源：哔哩哔哩-求知讲堂
+
 ## Day01  Hello World
 
 ### Java入门
