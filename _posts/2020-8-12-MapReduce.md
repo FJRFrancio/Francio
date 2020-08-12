@@ -6,7 +6,7 @@ tags:
 - HDFS
 - Java
 - MapReduce
-categories: Java,HDFS,Hadoop,MapReduce
+categories: BigData
 description: MapReduce 简要介绍
 ---
 
