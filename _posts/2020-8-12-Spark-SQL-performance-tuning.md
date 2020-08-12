@@ -6,7 +6,7 @@ tags:
 - SQL
 - Scala
 - TPC_H
-categories: Spark_SQL,Scala,TPC_H
+categories: BigData
 description: 基于TPC_H数据集的SparkSQL资源调优与统计
 ---
 
