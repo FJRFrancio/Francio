@@ -5,7 +5,7 @@ tags:
 - Hadoop
 - HDFS
 - Shell
-categories: Shell,HDFS,Hadoop
+categories: BigData
 description: HDFS 基本Shell命令操作
 ---
 
