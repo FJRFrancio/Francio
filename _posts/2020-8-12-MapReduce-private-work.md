@@ -7,7 +7,7 @@ tags:
 - Java
 - MapReduce
 - WordCount
-categories: Java,HDFS,Hadoop,MapReduce,PageRank,WordCount
+categories: BigData
 description: 利用MapReduce完成统计词频
 ---
 
