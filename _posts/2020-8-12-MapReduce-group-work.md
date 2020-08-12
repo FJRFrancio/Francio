@@ -8,7 +8,7 @@ tags:
 - MapReduce
 - PageRank
 - Neo4J
-categories: Java,HDFS,Hadoop,MapReduce,PageRank,Neo4J
+categories: BigData
 description: 利用MapReduce完成矩阵自乘和PR值的计算
 ---
 
