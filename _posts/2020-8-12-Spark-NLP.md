@@ -5,7 +5,7 @@ tags:
 - Spark
 - NLP
 - Koalas
-categories: Spark_NLP,Koalas
+categories: BigData
 description: 观看Spark Summit 2020的一些感受
 ---
 
