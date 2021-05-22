@@ -6,6 +6,7 @@ tags:
 - PCA
 - SVD
 categories: Python
+description: PCA与SVD 基础原理
 ---
 
 
